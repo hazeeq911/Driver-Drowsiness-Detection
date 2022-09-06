@@ -7,7 +7,7 @@ A Driver Drowsiness Detection project that was created using YOLOv5, PyTorch and
 
 # Dataset Preparation 
 All dataset were collected locally and are of original images. [Roboflow](https://roboflow.com/), a website to annotate the images.
-2 classes were annotated which were; Open Eyes and Closed Eyes. Dataset was then uploaded to Google Drive.
+2 classes were annotated which were; Open Eyes and Closed Eyes. Dataset was then uploaded to Google Drive. Dataset was named as drowsiness.
 
 # Model Creation
 [Model](https://colab.research.google.com/drive/1tXKlUt1uDqrg5XhFfyBRrxSUL2r9S8pA#scrollTo=kfU0Mn2S_4V_) was built and trained using [Google Colab](https://colab.research.google.com/)
