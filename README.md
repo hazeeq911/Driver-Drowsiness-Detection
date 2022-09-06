@@ -10,7 +10,7 @@ All dataset were collected locally and are of original images. [Roboflow](https:
 2 classes were annotated which were; Open Eyes and Closed Eyes. Dataset was then uploaded to Google Drive. DATASET WAS NAMED AS drowsiness.
 
 # Model Creation
-[Model](https://colab.research.google.com/drive/1tXKlUt1uDqrg5XhFfyBRrxSUL2r9S8pA#scrollTo=kfU0Mn2S_4V_) was built and trained using [Google Colab](https://colab.research.google.com/)
+[Model](https://github.com/hazeeq911/Driver-Drowsiness-Detection/blob/main/Driver%20Drowsiness%20Detection%20Model.ipynb) was built and trained using [Google Colab](https://colab.research.google.com/)
 
 Quick tip: Make sure you change Runtime to GPU to accelerate processes (Runtime > Change runtime type > Hardware accelerator > GPU)
 
