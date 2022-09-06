@@ -7,7 +7,7 @@ A Driver Drowsiness Detection project that was created using YOLOv5, PyTorch and
 
 # Dataset Preparation 
 All dataset were collected locally and are of original images. [Roboflow](https://roboflow.com/), a website to annotate the images.
-2 classes were annotated which were; Open Eyes and Closed Eyes. Dataset was then uploaded to Google Drive. Dataset was named as drowsiness.
+2 classes were annotated which were; Open Eyes and Closed Eyes. Dataset was then uploaded to Google Drive. DATASET WAS NAMED AS drowsiness.
 
 # Model Creation
 [Model](https://colab.research.google.com/drive/1tXKlUt1uDqrg5XhFfyBRrxSUL2r9S8pA#scrollTo=kfU0Mn2S_4V_) was built and trained using [Google Colab](https://colab.research.google.com/)
@@ -16,7 +16,7 @@ Quick tip: Make sure you change Runtime to GPU to accelerate processes (Runtime 
 
 custom.yaml was created to create a script to pass through the train and validation dataset
 
-best.pt is then saved, renamed to driver.pt and placed in the yolov5 directory later on 
+best.pt is then saved, RENAMED TO driver.pt and placed in the yolov5 directory later on 
 
 # Configuring NVIDIA® Jetson Nano™ (Using Terminal)
 It is crucial to install all required libraries needed to run the program.
