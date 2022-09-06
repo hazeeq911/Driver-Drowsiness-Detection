@@ -1,0 +1,8 @@
+
+train: /content/gdrive/MyDrive/drowsiness/train  # train images (relative to 'path') 128 images
+val: /content/gdrive/MyDrive/drowsiness/valid  # val images (relative to 'path') 128 images
+
+
+nc: 2  # number of classes
+names: ['Open-Eyes','Closed-Eyes']  # class names
+
