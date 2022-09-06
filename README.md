@@ -116,4 +116,4 @@ python detect.py --weights driver.pt --source 0 #Run inference using webcam
 ```
 
 # Thank you 🌹
-Thanks to everyone who helped me build the project, including the lecturers, facilitators, friends, and family. Feel free to contact me through my [email](mailto:zainihazeeq@gmail.com).
+Thanks to everyone who helped me build the project, including the lecturers, facilitators, friends, and family. I learned a lot from this project and would love to dive in more. Feel free to contact me through my [email](mailto:zainihazeeq@gmail.com).
